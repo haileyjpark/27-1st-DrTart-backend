@@ -6,12 +6,12 @@
 
 ## 팀원
  
-**_FE_** : 길도연 홍유진 김상훈
+**_FE_** : [길도연](https://github.com/sanha-kil) [홍유진](https://github.com/howyoujini) [김상훈](https://github.com/Ho0on)
 
 
 
 
-**_BE_** : 성주호 박정현 유민혁
+**_BE_** : [성주호](https://github.com/Joshua-sung) 박정현 [유민혁](https://github.com/MinHyeouk)
 
 
 
