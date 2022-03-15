@@ -11,7 +11,7 @@
 
 
 
-**_BE_** : [성주호](https://github.com/Joshua-sung) 박정현 [유민혁](https://github.com/MinHyeouk)
+**_BE_** : 박정현 [성주호](https://github.com/Joshua-sung) [유민혁](https://github.com/MinHyeouk)
 
 
 
