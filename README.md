@@ -26,6 +26,13 @@
  
 
 
+
+### Demo
+[![Dr.Tart](http://img.youtube.com/vi/ofcgg-3-B28/0.jpg)](https://youtu.be/ofcgg-3-B28)
+
+
+
+
 ## 기술 스택
  
 Front-End : JavaScript, React.js, sass, React-router-dom 
@@ -40,57 +47,6 @@ Back-End : Python, Django, MySQL, Miniconda
 Common : Git, Github, Slack, Trello, Notion
 
 
-
-## Project Structure
-```bash
-.
-├── core
-│   ├── __init__.py
-│   ├── admin.py
-│   ├── apps.py
-│   ├── migrations
-│   ├── models.py
-│   ├── tests.py
-│   ├── utils.py
-│   ├── validators.py
-│   └── views.py
-├── dr_tart
-│   ├── __init__.py
-│   ├── asgi.py
-│   ├── settings.py
-│   ├── urls.py
-│   └── wsgi.py
-├── manage.py
-├── orders
-│   ├── __init__.py
-│   ├── admin.py
-│   ├── apps.py
-│   ├── migrations
-│   ├── models.py
-│   ├── tests.py
-│   ├── urls.py
-│   └── views.py
-├── products
-│   ├── __init__.py
-│   ├── admin.py
-│   ├── apps.py
-│   ├── migrations
-│   ├── models.py
-│   ├── tests.py
-│   ├── urls.py
-│   └── views.py
-├── pull_request_template.md
-├── requirements.txt
-└── users
-    ├── __init__.py
-    ├── admin.py
-    ├── apps.py
-    ├── migrations
-    ├── models.py
-    ├── tests.py
-    ├── urls.py
-    └── views.py
-```
 
 
 
@@ -170,8 +126,64 @@ Common : Git, Github, Slack, Trello, Notion
 
 
 
-### Demo
-[![Dr.Tart](http://img.youtube.com/vi/ofcgg-3-B28/0.jpg)](https://youtu.be/ofcgg-3-B28)
+
+## Project Structure
+```bash
+.
+├── core
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── apps.py
+│   ├── migrations
+│   ├── models.py
+│   ├── tests.py
+│   ├── utils.py
+│   ├── validators.py
+│   └── views.py
+├── dr_tart
+│   ├── __init__.py
+│   ├── asgi.py
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+├── manage.py
+├── orders
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── apps.py
+│   ├── migrations
+│   ├── models.py
+│   ├── tests.py
+│   ├── urls.py
+│   └── views.py
+├── products
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── apps.py
+│   ├── migrations
+│   ├── models.py
+│   ├── tests.py
+│   ├── urls.py
+│   └── views.py
+├── pull_request_template.md
+├── requirements.txt
+└── users
+    ├── __init__.py
+    ├── admin.py
+    ├── apps.py
+    ├── migrations
+    ├── models.py
+    ├── tests.py
+    ├── urls.py
+    └── views.py
+```
+
+
+
+## ERD Modeling
+![](https://haileysbucket.s3.ap-northeast-2.amazonaws.com/Screen+Shot+2022-03-15+at+1.55.21+PM.png)
+
+
 
 
 
