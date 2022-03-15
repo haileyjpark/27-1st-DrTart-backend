@@ -44,102 +44,37 @@ Common : Git, Github, Slack, Trello, Notion
 ## Project Structure
 ```bash
 .
-├── __pycache__
-│   ├── my_settings.cpython-38.pyc
-│   └── my_settings.cpython-39.pyc
 ├── core
 │   ├── __init__.py
-│   ├── __pycache__
-│   │   ├── __init__.cpython-38.pyc
-│   │   ├── utils.cpython-38.pyc
-│   │   └── validators.cpython-38.pyc
 │   ├── admin.py
 │   ├── apps.py
 │   ├── migrations
-│   │   └── __init__.py
 │   ├── models.py
 │   ├── tests.py
 │   ├── utils.py
 │   ├── validators.py
 │   └── views.py
-├── csv
-│   ├── carts.csv
-│   ├── images.csv
-│   ├── order_items.csv
-│   ├── orders.csv
-│   ├── products.csv
-│   ├── reviews.csv
-│   └── users.csv
-├── db_uploader.py
 ├── dr_tart
 │   ├── __init__.py
-│   ├── __pycache__
-│   │   ├── __init__.cpython-38.pyc
-│   │   ├── __init__.cpython-39.pyc
-│   │   ├── settings.cpython-38.pyc
-│   │   ├── settings.cpython-39.pyc
-│   │   ├── urls.cpython-38.pyc
-│   │   ├── urls.cpython-39.pyc
-│   │   └── wsgi.cpython-38.pyc
 │   ├── asgi.py
 │   ├── settings.py
 │   ├── urls.py
 │   └── wsgi.py
 ├── manage.py
-├── my_settings.py
 ├── orders
 │   ├── __init__.py
-│   ├── __pycache__
-│   │   ├── __init__.cpython-38.pyc
-│   │   ├── __init__.cpython-39.pyc
-│   │   ├── apps.cpython-38.pyc
-│   │   ├── apps.cpython-39.pyc
-│   │   ├── models.cpython-38.pyc
-│   │   ├── models.cpython-39.pyc
-│   │   ├── urls.cpython-38.pyc
-│   │   └── views.cpython-38.pyc
 │   ├── admin.py
 │   ├── apps.py
 │   ├── migrations
-│   │   ├── 0001_initial.py
-│   │   ├── __init__.py
-│   │   └── __pycache__
-│   │       ├── 0001_initial.cpython-38.pyc
-│   │       ├── 0002_auto_20211130_0920.cpython-38.pyc
-│   │       ├── 0003_auto_20211130_1019.cpython-38.pyc
-│   │       └── __init__.cpython-38.pyc
 │   ├── models.py
 │   ├── tests.py
 │   ├── urls.py
 │   └── views.py
 ├── products
 │   ├── __init__.py
-│   ├── __pycache__
-│   │   ├── __init__.cpython-38.pyc
-│   │   ├── __init__.cpython-39.pyc
-│   │   ├── apps.cpython-38.pyc
-│   │   ├── apps.cpython-39.pyc
-│   │   ├── models.cpython-38.pyc
-│   │   ├── models.cpython-39.pyc
-│   │   ├── urls.cpython-38.pyc
-│   │   ├── urls.cpython-39.pyc
-│   │   ├── views.cpython-38.pyc
-│   │   └── views.cpython-39.pyc
 │   ├── admin.py
 │   ├── apps.py
 │   ├── migrations
-│   │   ├── 0001_initial.py
-│   │   ├── __init__.py
-│   │   └── __pycache__
-│   │       ├── 0001_initial.cpython-38.pyc
-│   │       ├── 0002_alter_menu_table.cpython-38.pyc
-│   │       ├── 0002_auto_20211130_0923.cpython-38.pyc
-│   │       ├── 0002_auto_20211207_1151.cpython-38.pyc
-│   │       ├── 0003_alter_category_table.cpython-38.pyc
-│   │       ├── 0003_review_review_image_url.cpython-38.pyc
-│   │       ├── 0004_auto_20211130_1029.cpython-38.pyc
-│   │       ├── 0005_review_review_image_url.cpython-38.pyc
-│   │       └── __init__.cpython-38.pyc
 │   ├── models.py
 │   ├── tests.py
 │   ├── urls.py
@@ -148,24 +83,9 @@ Common : Git, Github, Slack, Trello, Notion
 ├── requirements.txt
 └── users
     ├── __init__.py
-    ├── __pycache__
-    │   ├── __init__.cpython-38.pyc
-    │   ├── __init__.cpython-39.pyc
-    │   ├── apps.cpython-38.pyc
-    │   ├── apps.cpython-39.pyc
-    │   ├── models.cpython-38.pyc
-    │   ├── models.cpython-39.pyc
-    │   ├── urls.cpython-38.pyc
-    │   └── views.cpython-38.pyc
     ├── admin.py
     ├── apps.py
     ├── migrations
-    │   ├── 0001_initial.py
-    │   ├── __init__.py
-    │   └── __pycache__
-    │       ├── 0001_initial.cpython-38.pyc
-    │       ├── 0002_user_vegan_or_not.cpython-38.pyc
-    │       └── __init__.cpython-38.pyc
     ├── models.py
     ├── tests.py
     ├── urls.py
